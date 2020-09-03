@@ -1,3 +1,7 @@
+// Author: Boyuan Lai bjl5716@psu.edu
+// Collaborator: Isha Thukral ixt5078@psu.edu
+// Collaborator: Jenna Booth jmb8809@psu.edu
+// Collaborator: Derek Avery daa5514@psu.edu
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
